@@ -16,7 +16,7 @@ Author Icon: https://cdn.exerra.xyz/png/pfp.png
 
 Shortcut Icon: https://cdn.exerra.xyz/png/phishing.png
 
-Download: https://cdn.exerra.xyz/mp4/Anime.mp4
+Download: https://cdn.exerra.xyz/mp4/astolfo_and_felix_kissing.mp4
 
 Screenshots: https://cdn.exerra.xyz/png/api_response_time_nov1-nov2.png, https://cdn.exerra.xyz/png/newsletter_subscribe.png
 
