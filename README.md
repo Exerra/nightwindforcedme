@@ -2,7 +2,7 @@
 
 Name: Your Mom
 
-Description: An awesome enhancement to your homescreen!
+Description: xd gottem
 
 Long Description: Bing bong
 
