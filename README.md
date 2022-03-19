@@ -14,7 +14,7 @@ Repo: Exerra's Repo
 
 Author Icon: https://cdn.exerra.xyz/png/pfp.png
 
-Shortcut Icon: https://cdn.exerra.xyz/png/phishing.png
+Shortcut Icon: https://cdn.exerra.xyz/png/amogus_grape.png
 
 Download: https://cdn.exerra.xyz/mp4/astolfo_and_felix_kissing.mp4
 
