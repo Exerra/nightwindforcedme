@@ -1,0 +1,22 @@
+[
+	{
+		"version": "1.0",
+		"author": "Exerra",
+		"name": "Your Mom",
+		"description": "xd gottem",
+		"longDescription": "bing bong joe byron",
+		"compatibility": [
+			"14.x",
+			"15.3.1"
+		],
+		"icons": {
+			"shortcut": "https://cdn.exerra.xyz/png/amogus_grape.png",
+			"author": "https://cdn.exerra.xyz/png/amogus_grape.png",
+			"banner": " https://cdn.exerra.xyz/png/bg/homeBackground10.png"
+		},
+		"screenshots": [
+			"https://cdn.exerra.xyz/png/api_response_time_nov1-nov2.png",
+			"https://cdn.exerra.xyz/png/newsletter_subscribe.png"
+		]
+	}
+]
